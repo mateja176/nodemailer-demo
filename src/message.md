@@ -1,0 +1,13 @@
+You're an extremely good **storyteller**. No wonder you have attracted such a large following on **YouTube**, by creating compelling stories which people want to see and hear.
+
+Apart from the quality narration, your videos own their success to awe-inspiring visualizations. By telling your stories in such a way, people simply want to **watch more** of your videos and they want to **watch them for longer**.
+
+I've experienced this myself... You are probably using a software similar to **VideoScribe**. I remember when I created my first video in VideoScribe and put it on YouTube. With little to no experience in video editing and, frankly, terrible audio, I created a video which was watched around **half a million** times in the first couple of months. With just 2 videos I amassed a following of circa **10.000 subscribers**. It was perhaps the first time in my life that people carefully listened to what I had to say. The feeling was incredible.
+
+However, I also experienced a number of downsides while using VideoScribe. The app would **frequently crash** while I was using it on my laptop (which was the sole computer I owned at the time) and the software is **not cheap** either. Apart from that video rendering took an **awfully long time** and when I switched to a Linux operating system I couldn't use VideoScribe at all since it only supports Windows and MacOS machines. On top of that, there was **no way to quickly share your story** with others, since you'd first have to render the video and upload it somewhere. Let alone if you wanted to make an update to the video, you'd have to go through the whole process again.
+
+Fast forward a couple of years, I became a professional web developer and I still loved the gist of VideoScribe and the way it empowers storytellers. So I decided to create a VideoScribe inspired application which would **address all of the issues** which were mentioned above.
+
+The app is called [Video Storyteller](https://video-storyteller-dev.web.app) and it's currently in closed **beta version**. I hand picked a number of individuals to gain access to the platform and use all of the currently available features for **free**, no strings attached. Although, it would help out the development of the product greatly if you provided **feedback** on using the app by filling out this [5 question survey](https://www.surveymonkey.com/r/6G5GKTG).
+
+Additionally, since I'm currently alone in the venture I'm open to **sharing a piece of the cake** with someone who shares my vision of empowering people around their world to share their stories with others. You can access the app **directly in your browser** by visiting https://video-storyteller-dev.web.app and registering with a google account.
