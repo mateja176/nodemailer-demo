@@ -6,7 +6,9 @@
   "scripts": {
     "run": "ts-node src/index.ts",
     "compile": "marked src/message.md -o src/message.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "tslint --project .",
+    "format": "prettier src/**/*.ts -c",
+    "format:fix": "prettier src/**/*.ts --write"
   },
   "keywords": [],
   "author": "",

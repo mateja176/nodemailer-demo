@@ -36,11 +36,11 @@ emails.forEach((email) => {
     html: message,
   };
 
-  transporter.sendMail(mailOptions, function (error, info) {
+  transporter.sendMail(mailOptions, (error, info) => {
     if (error) {
-      console.log(error);
+      console.log(error); // tslint:disable-line no-console
     } else {
-      console.log(`Email sent: ${info.response}`);
+      console.log(`Email sent: ${info.response}`); // tslint:disable-line no-console
     }
   });
 });
