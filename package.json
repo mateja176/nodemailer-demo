@@ -8,7 +8,7 @@
     "compile": "marked src/message.md -o src/message.html",
     "lint": "tslint --project .",
     "format": "prettier src/**/*.ts -c",
-    "format:fix": "prettier src/**/*.ts --write"
+    "format:fix": "npm run format -- --write"
   },
   "keywords": [],
   "author": "",
